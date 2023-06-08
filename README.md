@@ -1,6 +1,8 @@
 # belly-button-challenge
 
-#### Notes: Omitted the gauge chart from the chaellgen as it's optional unlike the other components. The app deployment has been uploaded to github pages which can be located in the Environments section of the repository. 
+#### Notes: Omitted the gauge chart from the chaellgen as it's optional unlike the other components. The app deployment has been uploaded to github pages which can be located in the Environments section of the repository.
+
+#### The app deplyment can be viewed right here: https://chrisbanh.github.io/belly-button-challenge/
 
 
 
