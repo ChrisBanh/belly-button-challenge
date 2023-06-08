@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-#### Notes: Omitted the gauge chart from the chaellgen as it's optional unlike the other components. 
+#### Notes: Omitted the gauge chart from the chaellgen as it's optional unlike the other components. The repository has been uploaded to github pages which can be located in the Environments section of the repository. 
 
 
 
